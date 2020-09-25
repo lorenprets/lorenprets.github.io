@@ -14,3 +14,5 @@ Find two examples of design – one good and one bad. The examples should be in 
 /assets/img/thumb.png thumbnail
 
 /assets/img/path.jpg share
+
+/assets/img/path.jpg cover
