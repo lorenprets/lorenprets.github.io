@@ -16,4 +16,4 @@ This photo of a simple parking sign is an example of a good design. The sign cle
 
 ![Bad](https://anm.digital/wp-content/uploads/2018/12/pawhohasparkingduty-768x1024.jpg)
 
-This photo of a very complex parking sign is an example of a bad design. There are 6 signs which would be very confusing for anyone who would try to park there. In addition, there are "exceptions" on some of the parking which would most likely be increddibly confusing. This would be a better design if they simplified the information and had less signs. 
+This photo of a very complex parking sign is an example of a bad design. There are 6 signs which would be very confusing for anyone who would try to park there. In addition, there are "exceptions" on some of the signs which would most likely be increddibly confusing. This would be a better design if they simplified the information and had less signs. 
