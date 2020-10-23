@@ -1,6 +1,5 @@
 layout: post
 title: Fly on the Wall
-
 ---
 
   In light of the Coronavirus, there have been a number of changes that have impacted both students and teachers. During online school, a number of problems presented themselves. First of all, there were numerous scheduling related issues. For example, each full class class only met twice a week and half credit classes only met once a week. Due to this decrease, students ended up learning less than they would if they were in person. In order to solve this issue, many teachers tried to move though topics faster which often led to students to not understand it as well.  Furthermore, there were often technical difficulties which also contributed to less class time. Since Zoom only allows teachers to see students’ faces, it tended to be difficult to read students' body language, helping them ensure that students understand what is happening. Additionally, teachers could not monitor if students were on their phone or doing something they were supposed to during class.
