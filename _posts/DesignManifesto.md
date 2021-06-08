@@ -1,4 +1,7 @@
-Design Manifesto
+--- 
+layout: post
+title: Design Manifesto
+--- 
 
 When designing an app, there are 5 critical steps that every creator must take to ensure that their design process is the most effective. 
 1. Find the most effective kind of prototype 	
